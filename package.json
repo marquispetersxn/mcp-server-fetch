@@ -1,0 +1,1 @@
+{\n  \"name\": \"mcp-server-fetch\",\n  \"version\": \"1.0.0\",\n  \"description\": \"MCP server fetch installation\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"npx @modelcontextprotocol/inspector uv run mcp-server-fetch\"\n  },\n  \"dependencies\": {\n    \"@modelcontextprotocol/inspector\": \"latest\",\n    \"mcp-server-fetch\": \"latest\"\n  }\n}
